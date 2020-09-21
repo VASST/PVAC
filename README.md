@@ -5,8 +5,12 @@ The purpose of this project is to research and analyze different possible doping
 
 ---
 
-![](https://github.com/VASST/PVAC/blob/master/Images/Pure_Phantom_Ultrasound.png)\
+<img src=https://github.com/VASST/PVAC/blob/master/Images/Pure_Phantom_Ultrasound.png width="187" height="148">\
 **Figure 1.** Phantom with no scattering agent viewed under ultrasound.
+
+
+
+
 #### Possible Agents
 1. Spheriglass
 - Will not decompose
@@ -15,5 +19,6 @@ The purpose of this project is to research and analyze different possible doping
 3. Caffeine Powder
 4. Aspirin Powder
 5. Talcum Powder
+
 #### Next Steps
 The next priority will be to start the process of making new phantoms to image. As they do not last, they will need to be imaged as soon as they have been made. Titanium Dioxide will most likely be the next doping agent tested. 
