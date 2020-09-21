@@ -9,7 +9,8 @@ The purpose of this project is to research and analyze different possible doping
 1. Spheriglass
 - Will not decompose
 2. Titanium Dioxide (Ti0<sub>2</sub>)
-- Commonly used in labs around the world
+- Commonly used in labs around the world\
+![TiO2](https://user-images.githubusercontent.com/59654395/93806045-91928480-fc16-11ea-9173-f98317c25449.png)
 3. Caffeine Powder
 4. Aspirin Powder
 5. Talcum Powder
