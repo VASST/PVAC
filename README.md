@@ -11,15 +11,5 @@ The purpose of this project is to research and analyze different possible doping
 <img src=https://github.com/VASST/PVAC/blob/master/Images/1_percent_Spheri3000.png width="187" height="148">\
 **Figure 2.** Example of phantom with doping agent added. (1 percent spheriglass 3000)
 
-
-#### Possible Agents
-1. Spheriglass
-- Will not decompose
-2. Titanium Dioxide (Ti0<sub>2</sub>)
-- Commonly used in labs around the world
-3. Caffeine Powder
-4. Aspirin Powder
-5. Talcum Powder
-
 #### Next Steps
-The next priority will be to start the process of making new phantoms to image. As they do not last, they will need to be imaged as soon as they have been made. Titanium Dioxide will most likely be the next doping agent tested. 
+The next priority will be to start the process of making new phantoms to image. A way to store the samples is currently being researched. Titanium Dioxide will most likely be the next doping agent tested. 
