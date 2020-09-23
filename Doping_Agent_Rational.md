@@ -125,5 +125,25 @@
 </table>
 
 ---
+
+### 6. Talcum Powder
+
+<table style="width:100%">
+  <tr>
+    <th>Pros</th>
+    <th>Cons</th>
+  </tr>
+  
+  <tr>
+    <td>Non organic, has long shelf life</td>
+    <td>Some have added ingredients</td>
+  </tr>
+  
+  <tr>
+    <td>Affordable</td>
+    <td>May clump together during mixing stage</td>
+  </tr>
+</table>
+
 ---
 
