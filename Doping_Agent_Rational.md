@@ -1,6 +1,36 @@
 # Rational Behind Doping Agent Choices
 
-1. ### Flour
+
+### 1. Silica Glass Spheres
+
+<table style="width:100%">
+  <tr>
+    <th>Pros</th>
+    <th>Cons</th>
+  </tr>
+  
+  <tr>
+    <td>Will not dissolve</td>
+    <td>Very reflective (usually too much)</td>
+  </tr>
+  
+  <tr>
+    <td>Different sizes</td>
+    <td>Not readily available</td>
+  </tr>
+  
+  <tr>
+    <td>Will never decompose</td>
+    <td>PPE required</td>
+  </tr>
+  
+  <tr>
+    <td></td>
+    <td>Difficult to uniformly mix such small quantities</td>
+  </tr>
+</table>
+
+### 2. Flour
 
 <table style="width:100%">
   <tr>
@@ -21,7 +51,7 @@
 
 ---
 
-2. ### Titanium Dioxide (TiO<sub>2</sub>)
+### 3. Titanium Dioxide (TiO<sub>2</sub>)
 
 <table style="width:100%">
   <tr>
@@ -42,7 +72,7 @@
 
 ---
 
-3. ### Caffeine Powder
+### 4. Caffeine Powder
 
 <table style="width:100%">
   <tr>
@@ -68,7 +98,7 @@
 
 ---
 
-4. ### Aspirin Powder
+### 5. Aspirin Powder
 
 <table style="width:100%">
   <tr>
