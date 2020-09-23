@@ -30,6 +30,8 @@
   </tr>
 </table>
 
+---
+
 ### 2. Flour
 
 <table style="width:100%">
