@@ -2,7 +2,6 @@
 
 ## (Mixing Stage)
 
-<!--AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Talcum Powder") -->
 <details>
   <summary>Talcum Powder (Mg<sub>3</sub>Si<sub>4</sub>O<sub>10</sub>(OH)<sub>2</sub>)</summary>
 
@@ -11,9 +10,8 @@
 - Not lumpy when measuring quantity in weigh boat (ie. more exact)
 
 </details>
-<!-- AUTO-GENERATED-CONTENT:END -->
 
-<!--AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Talcum Powder") -->
+
 <details>
   <summary>Titanium Dioxide (TiO<sub>2</sub>)</summary>
 
@@ -23,4 +21,4 @@
 - could be good or bad, may exibit a unique image under ultrasound
 
 </details>
-<!-- AUTO-GENERATED-CONTENT:END -->
+
