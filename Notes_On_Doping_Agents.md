@@ -11,6 +11,7 @@
 
 </details>
 
+---
 
 <details>
   <summary>Titanium Dioxide (TiO<sub>2</sub>)</summary>
@@ -22,12 +23,28 @@
 
 </details>
 
+---
+
 <details>
-  <summary>Caffeine Powder</summary>
+  <summary>Caffeine Powder (C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>)</summary>
   
   - Have to crush pills with mortar and pestle
-  
+    - have to make sure to get pills ground down to a fine powder before adding to PVA
+  - pills used were pink!
+  - seemed to mix to a good consistancy
 
 </details>
 
+---
 
+<details>
+  <summary>Aspirin Powder (C<sub>9</sub>H<sub>8</sub>O<sub>4</sub>)</summary>
+  
+  - White pills
+  - crushed easily
+  - must make sure not to get pills with coating (would change results)
+  - more "bitty" than other additives
+    - could be good or bad, will have to see ultrasound
+  - still mixed easily, didn't clump together too much
+
+</details>
