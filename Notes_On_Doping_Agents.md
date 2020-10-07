@@ -49,6 +49,8 @@
 
 </details>
 
+---
+
 <details>
   <summary>Borax</summary>
   
@@ -57,6 +59,8 @@
   - also a royal pain to clean tools afterwards
   
 </details>
+
+---
 
 <details>
   <summary>Calcium Carbonate (CaCO<sub>3</sub>)</summary>
