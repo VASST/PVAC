@@ -48,3 +48,21 @@
   - still mixed easily, didn't clump together too much
 
 </details>
+
+<details>
+  <summary>Borax</summary>
+  
+  - DOES NOT WORK AT ALL
+  - when mixed, it causes PVA to solidify, making it unusable
+  - also a royal pain to clean tools afterwards
+  
+</details>
+
+<details>
+  <summary>Calcium Carbonate (CaCO<sub>3</sub>)</summary>
+  
+  - mixes well, seems to have a good combination of solubility and pieces
+  - more difficult to weigh because it can get compact in storage container, therefore causing it to be more dense
+  - non scientifically, this is powdered chalk
+  
+</details>
