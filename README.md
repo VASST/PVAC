@@ -19,17 +19,17 @@ A baseline image of pure PVAC is shown here as a reference.
 ### Spheriglass 2530
 | 1% | 2.5% | 5% | 10% |
 |:---:|:---:|:---:|:---:|
-|[1% Spheriglass 2530](Images/SPHERI_2530/1_percent_Spheri2530.png)|[2.5% Spheriglass 2530](Images/SPHERI_2530/2.5_percent_Spheri2530.png)|[5% Spheriglass 2530](Images/SPHERI_2530/5_percent_Spheri2530.png)|[10% Spheriglass 2530](Images/SPHERI_2530/10_percent_Spheri2530.png)|
+|![1% Spheriglass 2530](Images/SPHERI_2530/1_percent_Spheri2530.png)|![2.5% Spheriglass 2530](Images/SPHERI_2530/2.5_percent_Spheri2530.png)|![5% Spheriglass 2530](Images/SPHERI_2530/5_percent_Spheri2530.png)|![10% Spheriglass 2530](Images/SPHERI_2530/10_percent_Spheri2530.png)|
 
 ### Spheriglass 3000
 | 1% | 2.5% | 5% |
 |:---:|:---:|:---:|
-|[1% Spheriglass 3000](Images/SPHERI_3000/1_percent_Spheri3000.png)|[2.5% Spheriglass 3000](Images/SPHERI_3000/2.5_percent_Spheri3000.png)|[5% Spheriglass 3000](Images/SPHERI_3000/5_percent_Spheri3000.png)|
+|![1% Spheriglass 3000](Images/SPHERI_3000/1_percent_Spheri3000.png)|![2.5% Spheriglass 3000](Images/SPHERI_3000/2.5_percent_Spheri3000.png)|![5% Spheriglass 3000](Images/SPHERI_3000/5_percent_Spheri3000.png)|
 
 ### Aspirin
 | 1% | 2.5% | 5% |
 |:---:|:---:|:---:|
-|[1% Aspirin](Images/Aspirin/1_percent_Aspirin.png)|[2.5% Aspirin](Images/Aspirin/2.5_percent_Aspirin.png)|[5% Aspirin](Images/Aspirin/5_percent_Aspirin.png)|
+|![1% Aspirin](Images/Aspirin/1_percent_Aspirin.png)|![2.5% Aspirin](Images/Aspirin/2.5_percent_Aspirin.png)|![5% Aspirin](Images/Aspirin/5_percent_Aspirin.png)|
 
 #### Next Steps
 * The next priority will be to start the process of making new phantoms to image. 
