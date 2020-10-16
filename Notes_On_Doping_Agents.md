@@ -70,3 +70,14 @@
   - non scientifically, this is powdered chalk
   
 </details>
+
+---
+
+<details>
+  <summary>Collagen</summary>
+  
+  - good amount of solubility, not completly gone, but somewhat dissolved
+  - generally mixes well, until higher concentrations are added
+  - could make phantoms more dense
+
+</details>
