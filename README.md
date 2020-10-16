@@ -1,20 +1,21 @@
 # PVAC Doping Agents Research Project
 
-Henry Bruin, Oakridge Secondary School
-Adam Rankin, Robarts Research Institute, Western University
+## Contributors
+* Henry Bruin, Oakridge Secondary School
+* Adam Rankin, Robarts Research Institute, Western University
 
 ## Overview
 The purpose of this project is to research and analyze different possible doping agents for polyvinyl alcohol cryogel.
 
 ## Methods
-Samples are created according to the following recipe...
+Samples are created according to the following recipe:
 1. x
 1. y
 1. z
 
 ## Results
 A baseline image of pure PVAC is shown here as a reference.
-[Un-doped PVAC](Images/Pure_Phantom_Ultrasound.png)
+![Un-doped PVAC](Images/Pure_Phantom_Ultrasound.png)
 
 ### Spheriglass 2530
 | 1% | 2.5% | 5% |
@@ -29,7 +30,7 @@ A baseline image of pure PVAC is shown here as a reference.
 ### Aspirin
 | 1% | 2.5% | 5% |
 |:---:|:---:|:---:|
-|![1% Aspirin](Images/Aspirin/1_percent_Aspirin.png)|![2.5% Aspirin](Images/Aspirin/2.5_percent_Aspirin.png)|![5% Aspirin](Images/Aspirin/5_percent_Aspirin.png)|
+|![1% Aspirin](Images/Aspirin/1_percent_Aspirin.jpg)|![2.5% Aspirin](Images/Aspirin/2.5_percent_Aspirin.jpg)|![5% Aspirin](Images/Aspirin/5_percent_Aspirin.jpg)|
 
 #### Next Steps
 * The next priority will be to start the process of making new phantoms to image. 
