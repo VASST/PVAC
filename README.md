@@ -17,9 +17,9 @@ A baseline image of pure PVAC is shown here as a reference.
 [Un-doped PVAC](Images/Pure_Phantom_Ultrasound.png)
 
 ### Spheriglass 2530
-| 1% | 2.5% | 5% | 10% |
-|:---:|:---:|:---:|:---:|
-|![1% Spheriglass 2530](Images/SPHERI_2530/1_percent_Spheri2530.png)|![2.5% Spheriglass 2530](Images/SPHERI_2530/2.5_percent_Spheri2530.png)|![5% Spheriglass 2530](Images/SPHERI_2530/5_percent_Spheri2530.png)|![10% Spheriglass 2530](Images/SPHERI_2530/10_percent_Spheri2530.png)|
+| 1% | 2.5% | 5% |
+|:---:|:---:|:---:|
+|![1% Spheriglass 2530](Images/SPHERI_2530/1_percent_spheri2530.jpg)|![2.5% Spheriglass 2530](Images/SPHERI_2530/2.5_percent_spheri2530.jpg)|![5% Spheriglass 2530](Images/SPHERI_2530/5_percent_spheri2530.jpg)|
 
 ### Spheriglass 3000
 | 1% | 2.5% | 5% |
