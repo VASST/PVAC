@@ -48,7 +48,7 @@ Adjust ratios as necessary for other concentrations (never higher than 20%)
 
 ## Results
 A baseline image of pure PVAC is shown here as a reference.
-![Un-doped PVAC](Images/Pure_Phantom_Ultrasound.png)
+![Un-doped PVAC](Images/Pure/Pure_Phantom_Ultrasound.jpg)
 
 ### Aspirin
 | 1% | 2.5% | 5% |
@@ -78,7 +78,7 @@ A baseline image of pure PVAC is shown here as a reference.
 ### Spheriglass 3000
 | 1% | 2.5% | 5% |
 |:---:|:---:|:---:|
-|![1% Spheriglass 3000](Images/SPHERI_3000/1_percent_Spheri3000.png)|![2.5% Spheriglass 3000](Images/SPHERI_3000/2.5_percent_Spheri3000.png)|![5% Spheriglass 3000](Images/SPHERI_3000/5_percent_Spheri3000.png)|
+|![1% Spheriglass 3000](Images/SPHERI_3000/1_percent_Spheri3000.jpg)|![2.5% Spheriglass 3000](Images/SPHERI_3000/2.5_percent_Spheri3000.jpg)|![5% Spheriglass 3000](Images/SPHERI_3000/5_percent_Spheri3000.jpg)|
 
 ### Talcum Powder
 | 1% | 2.5% | 5% |
