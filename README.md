@@ -50,6 +50,26 @@ Adjust ratios as necessary for other concentrations (never higher than 20%)
 A baseline image of pure PVAC is shown here as a reference.
 ![Un-doped PVAC](Images/Pure_Phantom_Ultrasound.png)
 
+### Aspirin
+| 1% | 2.5% | 5% |
+|:---:|:---:|:---:|
+|![1% Aspirin](Images/Aspirin/1_percent_Aspirin.jpg)|![2.5% Aspirin](Images/Aspirin/2.5_percent_Aspirin.jpg)|![5% Aspirin](Images/Aspirin/5_percent_Aspirin.jpg)|
+
+### Calcium Chloride
+| 1% | 2.5% | 5% |
+|:---:|:---:|:---:|
+|![1% CaCO3](Images/CaCO3/1_percent_CaCO3.jpg)|![2.5% CaCO3](Images/CaCO3/2.5_percent_CaCO3.jpg)|![5% CaCO3](Images/CaCO3/5_percent_CaCO3.jpg)|
+
+### Caffeine
+| 1% | 2.5% | 5% |
+|:---:|:---:|:---:|
+|![1% Caffeine](Images/Caffeine/1_percent_caffeine.jpg)|![2.5% Caffeine](Images/Caffeine/2.5_percent_caffeine.jpg)|![5% Caffeine](Images/Caffeine/5_percent_caffeine.jpg)|
+
+### Collagen
+| 1% | 2.5% | 5% |
+|:---:|:---:|:---:|
+|![1% COLLAGEN](Images/COLLAGEN/1_percent_collagen.jpg)|![2.5% COLLAGEN](Images/COLLAGEN/2.5_percent_collagen.jpg)|![5% COLLAGEN](Images/COLLAGEN/5_percent_collagen.jpg)|
+
 ### Spheriglass 2530
 | 1% | 2.5% | 5% |
 |:---:|:---:|:---:|
@@ -60,10 +80,15 @@ A baseline image of pure PVAC is shown here as a reference.
 |:---:|:---:|:---:|
 |![1% Spheriglass 3000](Images/SPHERI_3000/1_percent_Spheri3000.png)|![2.5% Spheriglass 3000](Images/SPHERI_3000/2.5_percent_Spheri3000.png)|![5% Spheriglass 3000](Images/SPHERI_3000/5_percent_Spheri3000.png)|
 
-### Aspirin
+### Talcum Powder
 | 1% | 2.5% | 5% |
 |:---:|:---:|:---:|
-|![1% Aspirin](Images/Aspirin/1_percent_Aspirin.jpg)|![2.5% Aspirin](Images/Aspirin/2.5_percent_Aspirin.jpg)|![5% Aspirin](Images/Aspirin/5_percent_Aspirin.jpg)|
+|![1% Talcum](Images/Talcum/1_percent_talc.jpg)|![2.5% Talcum](Images/Talcum/2.5_percent_talc.jpg)|![5% Talcum](Images/Talcum/5_percent_talc.jpg)|
+
+### Titanium Dioxide
+| 1% | 2.5% | 5% |
+|:---:|:---:|:---:|
+|![1% TiO2](Images/TiO2/1_percent_TiO2.jpg)|![2.5% TiO2](Images/TiO2/2.5_percent_TiO2.jpg)|![5% TiO2](Images/TiO2/5_percent_TiO2.jpg)|
 
 #### Next Steps
 * The next priority will be to start the process of making new phantoms to image. 
