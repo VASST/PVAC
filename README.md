@@ -91,5 +91,4 @@ A baseline image of pure PVAC is shown here as a reference.
 |![1% TiO2](Images/TiO2/1_percent_TiO2.jpg)|![2.5% TiO2](Images/TiO2/2.5_percent_TiO2.jpg)|![5% TiO2](Images/TiO2/5_percent_TiO2.jpg)|
 
 #### Next Steps
-* The next priority will be to start the process of making new phantoms to image. 
-* A way to store the samples without mold growth is currently being researched
+* Determining the most ideal way of quantifying image data 
